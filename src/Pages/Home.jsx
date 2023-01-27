@@ -9,7 +9,9 @@ const Home = () => {
       <Navbar />
       <div className="background-container">
         <div>
-          <div className="background-text">Hola</div>
+          <div className="background-text">
+            La joyería es una expresión artística.
+          </div>
           <img className="background-image" src={Background} />
         </div>
       </div>

@@ -7,7 +7,7 @@
 .background-text {
   position: absolute;
   max-width: 700px;
-  color: #fff;
+  color: rgba(45, 132, 76, 1);
   font-size: 100px;
   font-style: italic;
   top: 50%;
