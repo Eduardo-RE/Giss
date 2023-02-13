@@ -10,10 +10,15 @@ const Home = () => {
       <div className="background-container">
         <div>
           <div className="background-text">
-            La joyería es una expresión artística.
+            La joyería es una expresión artística
           </div>
-          <img className="background-image" src={Background} />
         </div>
+      </div>
+      <div className="cards">
+        <div className="card1"></div>
+        <div></div>
+        <div></div>
+        <div></div>
       </div>
     </>
   );

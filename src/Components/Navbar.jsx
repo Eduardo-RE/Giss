@@ -9,7 +9,7 @@ const Navbar = () => {
     <>
       <div className="box-container">
         <div className="logo-container">
-        <FontAwesomeIcon icon={faGem} />
+          <FontAwesomeIcon icon={faGem} />
         </div>
 
         <div className="button-container">
